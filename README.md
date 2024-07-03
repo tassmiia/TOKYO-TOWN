@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a>
-      <img src="https://github.com/tassmiia/Tokyo-Town/blob/main/github%20cover.png?raw=true" alt="Project Banner">
+      <img src="https://github.com/tassmiia/TOKYO-TOWN/blob/main/assets/github%20cover.png?raw=true" alt="Project Banner">
     </a>
   <br />
 
@@ -11,11 +11,8 @@
     <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
   </div>
 
-  <h3 align="center">TOKYO TOWN </h3>
+  # TOKYO TOWN 
 
-
-
-## <a name="introduction">🤖 Introduction</a>
 
 A sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
 
