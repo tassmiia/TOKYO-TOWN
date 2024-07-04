@@ -11,15 +11,13 @@
     <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
   </div>
 
-  # TOKYO TOWN 
+  # TOKYO TOWN 🍣🩷
 
 
-A sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
+A simple sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
 
 
-## <a name="features">🔋 Features</a>
-
-
+### 🚀Features
 👉 Navigation Bar
 👉 Creative Hero Section
 👉 About Us Section
